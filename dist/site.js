@@ -28476,8 +28476,8 @@ module.exports = function(hostname) {
     if (hostname === 'cqguide.github.io') {
         L.mapbox.config.FORCE_HTTPS = true;
         return {
-            client_id: '62c753fd0faf18392d85',
-            gatekeeper_url: 'https://geojsonioauth.herokuapp.com'
+            client_id: 'Iv1.6d3b1b959c717012',
+            gatekeeper_url: 'https://cqguide.herokuapp.com'
         };
     // Customize these settings for your own development/deployment
     // version of geojson.io.
