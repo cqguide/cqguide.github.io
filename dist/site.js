@@ -28473,7 +28473,7 @@ function extend() {
 module.exports = function(hostname) {
     // Settings for geojson.io
     L.mapbox.accessToken = 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXFhYTA2bTMyeW44ZG0ybXBkMHkifQ.gUGbDOPUN1v1fTs5SeOR4A';
-    if (hostname === 'geojson.io') {
+    if (hostname === 'cqguide.github.io') {
         L.mapbox.config.FORCE_HTTPS = true;
         return {
             client_id: '62c753fd0faf18392d85',
