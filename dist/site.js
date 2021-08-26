@@ -28476,7 +28476,7 @@ module.exports = function(hostname) {
     if (hostname === 'cqguide.github.io') {
         L.mapbox.config.FORCE_HTTPS = true;
         return {
-            client_id: 'Iv1.6d3b1b959c717012',
+            client_id: 'df14eb1fc1590976920f',
             gatekeeper_url: 'https://cqguide.herokuapp.com'
         };
     // Customize these settings for your own development/deployment
